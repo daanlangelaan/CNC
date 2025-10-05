@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+# Cache & temp
+__pycache__/
+*.pyc
+*.pyo
+*.log
+# IDE folders
+.vscode/
+# Local data
+sample_cutlist.xlsx
+*.csv
